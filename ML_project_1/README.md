@@ -19,8 +19,7 @@ To get started with this project, you'll need to have Python installed. Follow t
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/dragon-real-estate.git
-    cd dragon-real-estate
+    git clone https://github.com/KayVeeZ/Model_predictor.git
     ```
 
 2. Create a virtual environment:
